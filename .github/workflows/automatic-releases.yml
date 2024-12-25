@@ -6,6 +6,12 @@ on:
     tags:
       - "v*"
 
+permissions:
+  id-token: "write"
+  contents: "write"
+  packages: "write"
+  pull-requests: "read"
+
 jobs:
   tagged-release:
     name: "Tagged Release"
