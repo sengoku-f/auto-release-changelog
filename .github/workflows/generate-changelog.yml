@@ -23,7 +23,14 @@ jobs:
       - name: "✏️ Generate release changelog"
         uses: janheinrichmerker/action-github-changelog-generator@v2.3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: default
+          include_commits: true
+          include_pull_requests: true
+          include_issues: true
+
+      - name: Debug Changelog
+        run: cat CHANGELOG.md
 
       - name: Commit
         run: |
