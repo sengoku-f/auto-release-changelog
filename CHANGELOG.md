@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [0.0.19](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.18..v0.0.19) - 2024-12-26
+
+### 💼 Other
+
+- Update changelog - ([dac6789](https://github.com/sengoku-f/auto-release-changelog/commit/dac678949b22785d2cec84c60af93eae090ec774))
+
+
+## [0.0.18](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.17..v0.0.18) - 2024-12-26
 
 ### 💼 Other
 
