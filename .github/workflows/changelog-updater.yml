@@ -2,9 +2,14 @@
 name: "Update Changelog"
 
 on:
+  workflow_dispatch:
   release:
     types: [released]
-
+permissions:
+  id-token: "write"
+  contents: "write"
+  packages: "write"
+  pull-requests: "read"
 jobs:
   update:
     runs-on: ubuntu-latest
