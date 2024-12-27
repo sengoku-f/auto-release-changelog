@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
+- 排除非常规提交 - ([01bd841](https://github.com/sengoku-f/auto-release-changelog/commit/01bd841e85b5262205172e8c1e14a14754b996f7))
 - 拆分提交 - ([fbf64ac](https://github.com/sengoku-f/auto-release-changelog/commit/fbf64ac8023c21934923424059182ca47a9756d3))
 - 常规提交 - ([f2ab96f](https://github.com/sengoku-f/auto-release-changelog/commit/f2ab96fb46d60b3a35580b2c833de73983183ff1))
 - * feat: add color to the help text - ([f18ecfe](https://github.com/sengoku-f/auto-release-changelog/commit/f18ecfe1d1a1f72b9bb4e10735ee8b21387f2aa6))
