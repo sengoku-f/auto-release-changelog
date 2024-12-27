@@ -79,7 +79,7 @@ postprocessors = [
 
 [git]
 # 根据 https://www.conventionalcommits.org 解析提交
-conventional_commits = false
+conventional_commits = true
 # 过滤掉非传统提交
 filter_unconventional = false
 # 将每次提交的每一行视为一个单独的提交
