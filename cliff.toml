@@ -112,11 +112,11 @@ protect_breaking_commits = false
 # 过滤掉与提交解析器不匹配的提交
 filter_commits = false
 # 匹配git标签的正则表达式
-tag_pattern = "v[0-9].*"
+# tag_pattern = "v[0-9].*"
 # 跳过标签的正则表示式
-skip_tags = "beta|alpha"
+# skip_tags = "beta|alpha"
 # 正则表达式用于忽略标签
-ignore_tags = "rc|v2.1.0|v2.1.1"
+# ignore_tags = "rc|v2.1.0|v2.1.1"
 # 对标签进行拓扑排序
 topo_order = false
 # 按 oldest/newest  顺序对章节内的提交进行排序
