@@ -14,6 +14,7 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
+- 新增推送 - ([0c6da78](https://github.com/sengoku-f/auto-release-changelog/commit/0c6da78b208e4c87dccd74c29b197a00085a8bce))
 - 拆分提交 - ([5c075af](https://github.com/sengoku-f/auto-release-changelog/commit/5c075af2b98b1cb539cf7fab8547b1db0facd8ed))
 - 尺寸 - ([75c2c87](https://github.com/sengoku-f/auto-release-changelog/commit/75c2c87727ac32ed6025831399279bcdd4c8400f))
 - 排除非常规提交 - ([01bd841](https://github.com/sengoku-f/auto-release-changelog/commit/01bd841e85b5262205172e8c1e14a14754b996f7))
