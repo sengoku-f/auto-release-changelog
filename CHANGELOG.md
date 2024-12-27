@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ## [未发布]
 
+### 🚀 特性
+
+- Feat: add color to the help text
+
+fix: use colors closer to logo colors
+
+style: update placeholder color - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
+
 ### 🐛 Bug 修复
 
 - 修复工作流 - ([8314304](https://github.com/sengoku-f/auto-release-changelog/commit/83143042ebb87ea3d1cddefd0957a54b58189176))
