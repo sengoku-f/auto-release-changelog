@@ -6,11 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### 🚀 特性
 
-- Feat: add color to the help text
-
-fix: use colors closer to logo colors
-
-style: update placeholder color - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
+- Add color to the help text - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
 
 ### 🐛 Bug 修复
 
@@ -18,6 +14,7 @@ style: update placeholder color - ([1d3acda](https://github.com/sengoku-f/auto-r
 
 ### 💼 修改
 
+- 常规提交 - ([f2ab96f](https://github.com/sengoku-f/auto-release-changelog/commit/f2ab96fb46d60b3a35580b2c833de73983183ff1))
 - * feat: add color to the help text
 
 * fix: use colors closer to logo colors
@@ -62,7 +59,7 @@ style: update placeholder color - ([1d3acda](https://github.com/sengoku-f/auto-r
 
 ### 🚀 特性
 
-- Feat: add new feature - ([39428c2](https://github.com/sengoku-f/auto-release-changelog/commit/39428c21a021eb575943270d42d629095e38fd9d))
+- Add new feature - ([39428c2](https://github.com/sengoku-f/auto-release-changelog/commit/39428c21a021eb575943270d42d629095e38fd9d))
 
 ## 新贡献者 ❤️
 
