@@ -7,6 +7,10 @@ All notable changes to this project will be documented in this file.
 ### 🚀 特性
 
 - Add color to the help text - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
+
+### 📚 文档
+
+- 更新文档 - ([a5370b9](https://github.com/sengoku-f/auto-release-changelog/commit/a5370b9345bf5714644c86bef451100f4cdec888))
 ## [0.0.14](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.13..v0.0.14) - 2024-12-26
 
 ### 🚀 特性
