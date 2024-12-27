@@ -87,10 +87,10 @@ filter_unconventional = false
 split_commits = false
 # 用于预处理提交消息的正则表示式
 commit_preprocessors = [
-  { pattern = '\((\w+\s)?#([0-9]+)\)', replace = "([#${2}](<REPO>/issues/${2}))" },
+  # { pattern = '\((\w+\s)?#([0-9]+)\)', replace = "([#${2}](<REPO>/issues/${2}))" },
   # 检查提交的拼写，请使用 https://github.com/crate-ci/typos
   # 如果拼写错误，将会自动修正。
-  { pattern = '.*', replace_command = 'typos --write-changes -' },
+  # { pattern = '.*', replace_command = 'typos --write-changes -' },
 ]
 # regex for parsing and grouping commits
 commit_parsers = [
