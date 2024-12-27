@@ -54,7 +54,7 @@ body = """
   ## 新贡献者 ❤️
 {% endif %}\
 {% for contributor in github.contributors | filter(attribute="is_first_time", value=true) %}
-  * @{{ contributor.username }} made their first contribution
+  * @{{ contributor.username }} 做出了他们的第一次贡献
     {%- if contributor.pr_number %} in \
       [#{{ contributor.pr_number }}]({{ self::remote_url() }}/pull/{{ contributor.pr_number }}) \
     {%- endif %}
@@ -81,9 +81,9 @@ postprocessors = [
 # 根据 https://www.conventionalcommits.org 解析提交
 conventional_commits = true
 # 过滤掉非传统提交
-filter_unconventional = true
+filter_unconventional = false
 # 将每次提交的每一行视为一个单独的提交
-split_commits = true
+split_commits = false
 # 用于预处理提交消息的正则表示式
 commit_preprocessors = [
   # { pattern = '\((\w+\s)?#([0-9]+)\)', replace = "([#${2}](<REPO>/issues/${2}))" },
