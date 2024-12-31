@@ -95,7 +95,7 @@ commit_preprocessors = [
 ]
 # regex for parsing and grouping commits
 commit_parsers = [
-  { message = "^feat|^特性", group = "<!-- 0 -->🚀 特性" },
+  { message = "^feat|^特性|^新增", group = "<!-- 0 -->🚀 特性" },
   { message = "^fix|^Bug|^修复", group = "<!-- 1 -->🐛 Bug 修复" },
   { message = "^doc|^文档", group = "<!-- 3 -->📚 文档" },
   { message = "^perf|^性能", group = "<!-- 4 -->⚡ 性能" },
