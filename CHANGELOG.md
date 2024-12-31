@@ -13,6 +13,7 @@ All notable changes to this project will be documented in this file.
 - 表格erwerwerzxczczxczxc - ([03b91fa](https://github.com/sengoku-f/auto-release-changelog/commit/03b91fa9ee98d27098db32887dd47d670e271fc6))
 - 表格erwerwer - ([78ac28e](https://github.com/sengoku-f/auto-release-changelog/commit/78ac28e0d1d8a47498d984f5a69bc01020c5d4f6))
 - 表格checkboxConfig设置checkRowKeys时异常报错； - ([4e722de](https://github.com/sengoku-f/auto-release-changelog/commit/4e722de1888e9cefa5e4a2278d919499a60bcd26))
+- Use colors closer to logo colors - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
 - 修复工作流 - ([8314304](https://github.com/sengoku-f/auto-release-changelog/commit/83143042ebb87ea3d1cddefd0957a54b58189176))
 
 ### 💼 修改
@@ -25,18 +26,21 @@ All notable changes to this project will be documented in this file.
 - 排除非常规提交 - ([01bd841](https://github.com/sengoku-f/auto-release-changelog/commit/01bd841e85b5262205172e8c1e14a14754b996f7))
 - 拆分提交 - ([fbf64ac](https://github.com/sengoku-f/auto-release-changelog/commit/fbf64ac8023c21934923424059182ca47a9756d3))
 - 常规提交 - ([f2ab96f](https://github.com/sengoku-f/auto-release-changelog/commit/f2ab96fb46d60b3a35580b2c833de73983183ff1))
-- * feat: add color to the help text
-
-* fix: use colors closer to logo colors
-
-* style: update placeholder color - ([f18ecfe](https://github.com/sengoku-f/auto-release-changelog/commit/f18ecfe1d1a1f72b9bb4e10735ee8b21387f2aa6))
+- * feat: add color to the help text - ([f18ecfe](https://github.com/sengoku-f/auto-release-changelog/commit/f18ecfe1d1a1f72b9bb4e10735ee8b21387f2aa6))
+- * fix: use colors closer to logo colors - ([f18ecfe](https://github.com/sengoku-f/auto-release-changelog/commit/f18ecfe1d1a1f72b9bb4e10735ee8b21387f2aa6))
+- * style: update placeholder color - ([f18ecfe](https://github.com/sengoku-f/auto-release-changelog/commit/f18ecfe1d1a1f72b9bb4e10735ee8b21387f2aa6))
 - 更新 - ([4391f31](https://github.com/sengoku-f/auto-release-changelog/commit/4391f3154179bbaa06af11d3f9daa74c048c4e1e))
 - 更新 - ([78a310d](https://github.com/sengoku-f/auto-release-changelog/commit/78a310d925254f4c1fd4fd3bc265f2f8fb072e57))
 - 更新 - ([54de6a9](https://github.com/sengoku-f/auto-release-changelog/commit/54de6a9415a96ef26265a3e024e2536a58585966))
 
 ### 📚 文档
 
+- 自行车自行车自行车 - ([9a64bec](https://github.com/sengoku-f/auto-release-changelog/commit/9a64bec2cd26e7678bb127cf0377d36dcd60d5e6))
 - 更新文档 - ([a5370b9](https://github.com/sengoku-f/auto-release-changelog/commit/a5370b9345bf5714644c86bef451100f4cdec888))
+
+### 🎨 样式
+
+- Update placeholder color - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
 
 ### 🧪 测试
 
@@ -46,9 +50,15 @@ All notable changes to this project will be documented in this file.
 
 ### 🚀 特性
 
-- 特性: 123
-修复 xxxx
-文档更新 - ([3ca10b2](https://github.com/sengoku-f/auto-release-changelog/commit/3ca10b2bd9bcadf662f8d1d07785e65a05c00e56))
+- 123 - ([3ca10b2](https://github.com/sengoku-f/auto-release-changelog/commit/3ca10b2bd9bcadf662f8d1d07785e65a05c00e56))
+
+### 🐛 Bug 修复
+
+- 修复 xxxx - ([3ca10b2](https://github.com/sengoku-f/auto-release-changelog/commit/3ca10b2bd9bcadf662f8d1d07785e65a05c00e56))
+
+### 📚 文档
+
+- 文档更新 - ([3ca10b2](https://github.com/sengoku-f/auto-release-changelog/commit/3ca10b2bd9bcadf662f8d1d07785e65a05c00e56))
 
 ## [0.0.18](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.17..v0.0.18) - 2024-12-26
 
