@@ -14,7 +14,8 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
-- 1.fix：表格checkboxConfig设置checkRowKeys时异常报错； - ([4e722de](https://github.com/sengoku-f/auto-release-changelog/commit/4e722de1888e9cefa5e4a2278d919499a60bcd26))
+- 更新 - ([0e6e4e1](https://github.com/sengoku-f/auto-release-changelog/commit/0e6e4e1329020753e2226914dce46ff639dea638))
+-  - ([4e722de](https://github.com/sengoku-f/auto-release-changelog/commit/4e722de1888e9cefa5e4a2278d919499a60bcd26))
 - 新增推送 - ([0c6da78](https://github.com/sengoku-f/auto-release-changelog/commit/0c6da78b208e4c87dccd74c29b197a00085a8bce))
 - 拆分提交 - ([5c075af](https://github.com/sengoku-f/auto-release-changelog/commit/5c075af2b98b1cb539cf7fab8547b1db0facd8ed))
 - 尺寸 - ([75c2c87](https://github.com/sengoku-f/auto-release-changelog/commit/75c2c87727ac32ed6025831399279bcdd4c8400f))
