@@ -6,8 +6,8 @@ All notable changes to this project will be documented in this file.
 
 ### 🚀 特性
 
-- *(api)* [**breaking**] 产品发货时向客户发送邮件 - ([0080264](https://github.com/sengoku-f/auto-release-changelog/commit/0080264687af9b7fdf7ffc46f55e1ac9fb665b19))
-- [**breaking**] 产品发货时向客户发送邮件 - ([b2ea094](https://github.com/sengoku-f/auto-release-changelog/commit/b2ea094cca9f59db0390776650f8199891566c27))
+- *(api)* [**重大变更**] 产品发货时向客户发送邮件 - ([0080264](https://github.com/sengoku-f/auto-release-changelog/commit/0080264687af9b7fdf7ffc46f55e1ac9fb665b19))
+- [**重大变更**] 产品发货时向客户发送邮件 - ([b2ea094](https://github.com/sengoku-f/auto-release-changelog/commit/b2ea094cca9f59db0390776650f8199891566c27))
 - Add color to the help text - ([1d3acda](https://github.com/sengoku-f/auto-release-changelog/commit/1d3acda8b4adf4daaf2bbd9270fd247178f09fbb))
 
 ### 🐛 Bug 修复
@@ -19,6 +19,7 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
+- BREAKING CHANGE: 使用了 Node 6 中不可用的 JavaScript 特性。 - ([804c14d](https://github.com/sengoku-f/auto-release-changelog/commit/804c14d537bf0a6f858265c13b5736ee24c4f8ce))
 - 更新 - ([8c8e191](https://github.com/sengoku-f/auto-release-changelog/commit/8c8e191fb68c746780fb5793d617acd79070cc4d))
 - 更新 - ([0e6e4e1](https://github.com/sengoku-f/auto-release-changelog/commit/0e6e4e1329020753e2226914dce46ff639dea638))
 - 新增推送 - ([0c6da78](https://github.com/sengoku-f/auto-release-changelog/commit/0c6da78b208e4c87dccd74c29b197a00085a8bce))
