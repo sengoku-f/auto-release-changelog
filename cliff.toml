@@ -83,7 +83,7 @@ conventional_commits = true
 # 过滤掉非传统提交
 filter_unconventional = true
 # 将每次提交的每一行视为一个单独的提交
-split_commits = true
+split_commits = false
 # 用于预处理提交消息的正则表示式
 commit_preprocessors = [
   # { pattern = '\((\w+\s)?#([0-9]+)\)', replace = "([#${2}](<REPO>/issues/${2}))" },
