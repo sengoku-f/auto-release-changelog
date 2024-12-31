@@ -81,7 +81,7 @@ postprocessors = [
 # 根据 https://www.conventionalcommits.org 解析提交
 conventional_commits = true
 # 过滤掉非传统提交
-filter_unconventional = true
+filter_unconventional = false
 # 将每次提交的每一行视为一个单独的提交
 split_commits = false
 # 用于预处理提交消息的正则表示式
