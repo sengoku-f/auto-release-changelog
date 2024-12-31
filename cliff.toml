@@ -59,7 +59,7 @@ body = """
       [#{{ contributor.pr_number }}]({{ self::remote_url() }}/pull/{{ contributor.pr_number }}) \
     {%- endif %}
 {%- endfor -%}
-{%- endif %}
+{%- endif %}\n
 """
 
 # 变更日志页脚模板
