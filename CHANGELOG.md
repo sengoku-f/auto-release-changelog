@@ -10,14 +10,15 @@ All notable changes to this project will be documented in this file.
 
 ### 🐛 Bug 修复
 
+- 表格erwerwerzxczczxczxc - ([03b91fa](https://github.com/sengoku-f/auto-release-changelog/commit/03b91fa9ee98d27098db32887dd47d670e271fc6))
+- 表格erwerwer - ([78ac28e](https://github.com/sengoku-f/auto-release-changelog/commit/78ac28e0d1d8a47498d984f5a69bc01020c5d4f6))
+- Fix：表格checkboxConfig设置checkRowKeys时异常报错； - ([4e722de](https://github.com/sengoku-f/auto-release-changelog/commit/4e722de1888e9cefa5e4a2278d919499a60bcd26))
 - 修复工作流 - ([8314304](https://github.com/sengoku-f/auto-release-changelog/commit/83143042ebb87ea3d1cddefd0957a54b58189176))
 
 ### 💼 修改
 
--  - ([78ac28e](https://github.com/sengoku-f/auto-release-changelog/commit/78ac28e0d1d8a47498d984f5a69bc01020c5d4f6))
 - 更新 - ([8c8e191](https://github.com/sengoku-f/auto-release-changelog/commit/8c8e191fb68c746780fb5793d617acd79070cc4d))
 - 更新 - ([0e6e4e1](https://github.com/sengoku-f/auto-release-changelog/commit/0e6e4e1329020753e2226914dce46ff639dea638))
--  - ([4e722de](https://github.com/sengoku-f/auto-release-changelog/commit/4e722de1888e9cefa5e4a2278d919499a60bcd26))
 - 新增推送 - ([0c6da78](https://github.com/sengoku-f/auto-release-changelog/commit/0c6da78b208e4c87dccd74c29b197a00085a8bce))
 - 拆分提交 - ([5c075af](https://github.com/sengoku-f/auto-release-changelog/commit/5c075af2b98b1cb539cf7fab8547b1db0facd8ed))
 - 尺寸 - ([75c2c87](https://github.com/sengoku-f/auto-release-changelog/commit/75c2c87727ac32ed6025831399279bcdd4c8400f))
