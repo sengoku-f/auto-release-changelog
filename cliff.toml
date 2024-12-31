@@ -90,7 +90,7 @@ commit_preprocessors = [
   # 检查提交的拼写，请使用 https://github.com/crate-ci/typos
   # 如果拼写错误，将会自动修正。
   # { pattern = '.*', replace_command = 'typos --write-changes -' },
-  { pattern = '^[0-9]+\.(.*)', replace_command = "$1" },
+  { pattern = '^[0-9]+\.(.*)', replace = "$1" },
 ]
 # regex for parsing and grouping commits
 commit_parsers = [
