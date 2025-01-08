@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - dev
     tags:
       - "v*"
 
@@ -55,14 +55,14 @@ jobs:
       # 提交完整的 Changelog
       - name: Commit full changelog
         run: |
-          git checkout main
+          git checkout dev
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           set +e
           git add CHANGELOG.md
           git add docs/docs/CHANGELOG.md
           git commit -m "Update changelog"
-          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git dev
 
       # 发送企业微信通知
       - name: WeChat Work notification
