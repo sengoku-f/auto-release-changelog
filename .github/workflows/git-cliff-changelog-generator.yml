@@ -64,6 +64,14 @@ jobs:
           git commit -m "Update changelog"
           git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git dev
 
+      - name: Trigger deploy workflow
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/repos/${{ github.repository }}/dispatches \
+            -d '{"event_type":"trigger-deploy", "client_payload": {"ref": "${{ github.ref }}"}}'
+
       # 发送企业微信通知
       # - name: WeChat Work notification
       #   if: steps.latest-changelog.outputs.content != ''
