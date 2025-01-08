@@ -22,6 +22,7 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
+- Werwer - ([4e715b3](https://github.com/sengoku-f/auto-release-changelog/commit/4e715b3ef032c82cec0d0d94e4e81ff1577d09e7))
 - Zxczxc - ([b9df146](https://github.com/sengoku-f/auto-release-changelog/commit/b9df146b8d4293c59eceaf83b84969bf9d9e09d9))
 - 去除页脚 - ([d57b6b0](https://github.com/sengoku-f/auto-release-changelog/commit/d57b6b0ad50dddb150047e15c214b1562f053d5e))
 - BREAKING CHANGE: 使用了 Node 6 中不可用的 JavaScript 特性。 - ([804c14d](https://github.com/sengoku-f/auto-release-changelog/commit/804c14d537bf0a6f858265c13b5736ee24c4f8ce))
