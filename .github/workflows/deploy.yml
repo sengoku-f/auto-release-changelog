@@ -5,6 +5,7 @@ on:
     workflows: ["Generate changelog"] # 当前工作流的名称
     types:
       - completed
+    branches: [canary]
 
 jobs:
   deploy:
