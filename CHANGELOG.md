@@ -7,6 +7,7 @@ All notable changes to this project will be documented in this file.
 ### 🚀 特性
 
 - *(api)* [**重大变更**] 产品发货时向客户发送邮件 - ([0080264](https://github.com/sengoku-f/auto-release-changelog/commit/0080264687af9b7fdf7ffc46f55e1ac9fb665b19))
+- 部署测试工作流 - ([397070e](https://github.com/sengoku-f/auto-release-changelog/commit/397070e69795806f4967c4ae1a9545e5f366b88f))
 - 新增提交 docs 路径 - ([4aeb6fa](https://github.com/sengoku-f/auto-release-changelog/commit/4aeb6fa8839930a5f7794a3502d02598c71396a0))
 - [**重大变更**] 允许提供的配置对象扩展其他配置 - ([cfe9f23](https://github.com/sengoku-f/auto-release-changelog/commit/cfe9f23bd080ee38e24ecf9bbcaf5f1e130d72c0))
 - [**重大变更**] 产品发货时向客户发送邮件 - ([b2ea094](https://github.com/sengoku-f/auto-release-changelog/commit/b2ea094cca9f59db0390776650f8199891566c27))
