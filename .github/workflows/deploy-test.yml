@@ -1,0 +1,50 @@
+name: Deploy Docs site to Pages
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - 'docs/**'
+      - '.github/workflows/deployDocs.yml'
+  workflow_dispatch: # 手动触发
+  repository_dispatch:
+    types: [my-event] # 支持 repository_dispatch
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Determine ref and sha
+        id: determine-ref-sha
+        run: |
+          # 如果是 repository_dispatch 事件，则使用 client-payload 提供的 ref 和 sha
+          if [ "${{ github.event_name }}" == "repository_dispatch" ]; then
+            echo "ref=${{ github.event.client_payload.ref }}" >> $GITHUB_ENV
+            echo "sha=${{ github.event.client_payload.sha }}" >> $GITHUB_ENV
+          else
+            # 默认情况下，使用推送或手动触发的 ref 和 sha
+            echo "ref=${{ github.ref }}" >> $GITHUB_ENV
+            echo "sha=${{ github.sha }}" >> $GITHUB_ENV
+          fi
+
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ env.ref }}
+          fetch-depth: 0
+
+      - name: Verify ref and sha
+        run: |
+          echo "Using ref: ${{ env.ref }}"
+          echo "Using sha: ${{ env.sha }}"
+
