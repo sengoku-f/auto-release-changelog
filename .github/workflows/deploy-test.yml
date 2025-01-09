@@ -6,7 +6,7 @@ on:
       - dev
     paths:
       - 'docs/**'
-      - '.github/workflows/deployDocs.yml'
+      # - '.github/workflows/deployDocs.yml'
   workflow_dispatch: # 手动触发
   repository_dispatch:
     types: [my-event] # 支持 repository_dispatch
