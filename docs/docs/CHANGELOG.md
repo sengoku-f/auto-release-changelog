@@ -22,6 +22,7 @@ All notable changes to this project will be documented in this file.
 
 ### 💼 修改
 
+- 使用默认 token - ([6bb09e8](https://github.com/sengoku-f/auto-release-changelog/commit/6bb09e8f265a8ee91baba712e38192bab969e24f))
 - 更新 - ([7a4bb5a](https://github.com/sengoku-f/auto-release-changelog/commit/7a4bb5a358fa917ad48a6636cfc41c82a2cdb1f6))
 - Zxc - ([d232fb4](https://github.com/sengoku-f/auto-release-changelog/commit/d232fb4d0983705cd1cede58292ec594ecbd4283))
 - 出发前 - ([f35d888](https://github.com/sengoku-f/auto-release-changelog/commit/f35d88863faf5a1253ec66f80fc21f175a0f2bfb))
