@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
-## [未发布]
+## [1.0.0](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.22..v1.0.0) - 2025-01-17
+
+### 💼 修改
+
+- Zxcasdadasdasdasdasdasdasdasdasdasd - ([fbce2da](https://github.com/sengoku-f/auto-release-changelog/commit/fbce2dad7257006330856ce0f55e305056484214))
+
+## [0.0.22](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.21..v0.0.22) - 2025-01-17
 
 ### 💼 修改
 
