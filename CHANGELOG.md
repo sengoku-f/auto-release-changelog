@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [未发布]
+
+### 💼 修改
+
+- Zxafasfasfasf - ([4252e31](https://github.com/sengoku-f/auto-release-changelog/commit/4252e31bf13881f437fd95c91a86dd8d0ce957a8))
+
 ## [1.0.0](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.22..v1.0.0) - 2025-01-17
 
 ### 💼 修改
