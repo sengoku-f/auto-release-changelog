@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [未发布]
 
+### 💼 修改
+
+- Zxczxvzvadvasdfasdf - ([954036e](https://github.com/sengoku-f/auto-release-changelog/commit/954036e7a5b2952808deda682bd6bf0c9db4192a))
+
+## [0.0.21](https://github.com/sengoku-f/auto-release-changelog/compare/v0.0.20..v0.0.21) - 2025-01-17
+
 ### 🚀 特性
 
 - *(api)* [**重大变更**] 产品发货时向客户发送邮件 - ([0080264](https://github.com/sengoku-f/auto-release-changelog/commit/0080264687af9b7fdf7ffc46f55e1ac9fb665b19))
